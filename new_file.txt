@@ -1,0 +1,8 @@
+"src/resource.js",
+        "src/PublicData.js",
+        "src/app.js",
+        "src/Tooler.js",
+        "src/CardSprite.js",
+        "src/AIRole.js",
+        "src/CardManager.js",
+        "src/Role.js",
